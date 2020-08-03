@@ -1,5 +1,25 @@
 # amplify-test
 
+Amplify を使用してチュートリアル通りにTODOアプリを作成する時に使用したリポジトリ
+
+## 使用したページたち
+
+下記記事のチュートリアルを元に試してみた！
+
+- [Getting started - Amplify Docs - vue](https://docs.amplify.aws/start/q/integration/vue)
+
+下記の記事も参考にした
+
+- [Amplify SNS Workshop :: Amplify SNS Workshop](https://amplify-sns.workshop.aws/ja)
+
+最後はクラウドのリソースをすべて削除するために以下のコマンドを実行
+
+```shell
+$ amplify delete
+```
+ 
+**注意：このプロジェクトはクラウドのリソースが無いため、現在正しく動作しません！！！**
+
 ## Project setup
 ```
 npm install
