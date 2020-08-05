@@ -44,4 +44,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![](https://img.shields.io/badge/coverage-100%25-green?url=https://yahoo.co.jp)
+![](https://img.shields.io/badge/coverage-100%25-green?link=https://yahoo.co.jp)
