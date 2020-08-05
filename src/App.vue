@@ -1,5 +1,5 @@
 <template>
-  <amplify-authenticator>
+  <!-- <amplify-authenticator> -->
     <div id="app">
       <h1>Todo App</h1>
       <input type="text" v-model="name" placeholder="Todo name">
@@ -10,8 +10,8 @@
         <p>{{ item.description }}</p>
       </div>
     </div>
-    <amplify-sign-out></amplify-sign-out>
-  </amplify-authenticator>
+    <!-- <amplify-sign-out></amplify-sign-out>
+  </amplify-authenticator> -->
 </template>
 
 <script>
