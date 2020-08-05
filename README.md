@@ -42,3 +42,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+![](https://img.shields.io/badge/coverage-100%25-green?url=https://yahoo.co.jp)
